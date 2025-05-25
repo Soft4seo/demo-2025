@@ -20,5 +20,4 @@ $ npm run build:mac
 # For Linux
 $ npm run build:linux
 ```
-# demo2025
 # demo-2025
